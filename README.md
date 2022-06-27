@@ -31,7 +31,9 @@
 ---
 
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tyndalesanjay&theme=dark&background=000000)](https://git.io/streak-stats)          
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tyndalesanjay&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=tyndalesanjay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 
