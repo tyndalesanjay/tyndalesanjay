@@ -10,7 +10,7 @@
 
 - 🔭 I'm a M.E.A.N Stack Developer with most of my contributions going to the designing of Web Applications and WebSites
 - 🌱 I’m currently learning Database Design and Mobile App Creation
-- 📫 How to reach me: <a href="mail:tyndsalesanjay@gmail.com" target="_black"> Email </a>
+- 📫 How to reach me: <a href="mail:tyndsale.sanjay12@gmail.com" target="_black"> Email </a>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -26,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
 ---
 
